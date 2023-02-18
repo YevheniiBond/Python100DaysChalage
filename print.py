@@ -1,0 +1,5 @@
+print("Hello World")
+print("Hello World\nHello World\nHello World")
+print("Hello " + "Angela")
+print("зараз ми напишемо слово в \"лапках\"")
+print('або ось "так"')
